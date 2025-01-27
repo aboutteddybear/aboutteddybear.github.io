@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//aboutteddybear.github.io//aboutteddybear.github.io/static/css/main.ade289d3.css",
+    "main.js": "//aboutteddybear.github.io//aboutteddybear.github.io/static/js/main.e8de2d79.js",
+    "index.html": "//aboutteddybear.github.io//aboutteddybear.github.io/index.html",
+    "static/media/fragment.glsl": "//aboutteddybear.github.io//aboutteddybear.github.io/static/media/fragment.d3390587b22dde6810a7.glsl",
+    "static/media/vertex.glsl": "//aboutteddybear.github.io//aboutteddybear.github.io/static/media/vertex.ca5bad56c2118ae77d20.glsl",
+    "static/media/bubbleTip.svg": "//aboutteddybear.github.io//aboutteddybear.github.io/static/media/bubbleTip.7efcb8ad19ab4b15d182.svg",
+    "main.ade289d3.css.map": "//aboutteddybear.github.io//aboutteddybear.github.io/static/css/main.ade289d3.css.map",
+    "main.e8de2d79.js.map": "//aboutteddybear.github.io//aboutteddybear.github.io/static/js/main.e8de2d79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ade289d3.css",
+    "static/js/main.e8de2d79.js"
+  ]
+}
